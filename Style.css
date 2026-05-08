@@ -68,13 +68,13 @@ form {
 form input {
   width: 100%;
 
-  background: #A68C69;
+  background: #d9d9d9;
   border: 0.1rem solid #917F6Ef0;
   border-radius: 0.4rem;
 
 padding: 1.6rem 1.2rem;
 
-margin-top: 0.8rem;
+margin-top: 0.6rem;
 }
 
 form input-wrapper + input-wrapper {
